@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 👋 Hi, I’m Islam Al-Absi
-- 👀 I’m interested in Machine Learning and Software Engineering
+- 👀 I’m interested in Machine Learning, AI and Software Engineering
 - 🌱 I’m currently learning latest machine learning approaches and looking to build my own product
+- 💞️ I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
 - 📫 You can reach me out via islam.alabsi.dev@gmail.com
 <!--
 **islam543/islam543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
