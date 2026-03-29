@@ -1,4 +1,4 @@
-<!--
+
 ## Hi there 👋 I'm Islam Al-Absi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Islam+Al-Absi)](https://git.io/typing-svg)
 - CS Graduate
@@ -7,13 +7,15 @@
 - I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
 - You can reach me out via 
 [![Email](https://img.shields.io/badge/Email-islam.alabsi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.alabsi.dev@gmail.com)
- ### Or visit my portfolio: https://islam543.github.io -->
+
+<!--
+ ### Or visit my portfolio: https://islam543.github.io 
 
  <!-- Typing Animation Header -->
  
 
 
-<!-- About -->
+<!-- About 
 <p align="center">
   🎓 CS Graduate &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 💻 Software Engineer <br/>
   Passionate about building intelligent systems at the intersection of ML research and software engineering.<br/>
@@ -24,7 +26,6 @@
 
 ### 🛠️ Skills & Technologies
 
-<!-- AI/ML Badges -->
 **AI/ML Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -91,3 +92,4 @@
 ### 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-islam.alabsi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.alabsi.dev@gmail.com)
+-->
