@@ -1,5 +1,3 @@
-
-## Hi there 👋 I'm Islam Al-Absi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Islam+Al-Absi)](https://git.io/typing-svg)
 - CS Graduate
 - Intrested in AI/ML Engineer, SWE
