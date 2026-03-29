@@ -1,15 +1,17 @@
 <!--
 ## Hi there 👋 I'm Islam Al-Absi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Islam+Al-Absi)](https://git.io/typing-svg)
 - CS Graduate
 - Intrested in AI/ML Engineer, SWE
 - I’m currently learning latest AI systems intersecting machine learning approaches and looking to build my own products
 - I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
-- You can reach me out via islam.alabsi.dev@gmail.com
+- You can reach me out via 
+[![Email](https://img.shields.io/badge/Email-islam.alabsi.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.alabsi.dev@gmail.com)
  ### Or visit my portfolio: https://islam543.github.io -->
 
  <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
----
+ 
+
 
 <!-- About -->
 <p align="center">
@@ -54,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IslamAlabsi&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAlabsi&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Islam543&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Islam543&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 ---
