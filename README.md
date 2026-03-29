@@ -8,10 +8,7 @@
  ### Or visit my portfolio: https://islam543.github.io -->
 
  <!-- Typing Animation Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Islam+Al-Absi+👋;AI+%2F+ML+Engineer;CS+Graduate;Software+Engineer" alt="Typing SVG" />
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ---
 
 <!-- About -->
