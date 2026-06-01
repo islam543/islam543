@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Islam+Al-Absi)](https://git.io/typing-svg)
-- Intrested in AI/ML Engineer, SWE
+- Building AI Applications, Multi-agent for your system
 - I’m currently learning latest AI systems intersecting machine learning approaches and looking to build my own products
 - I’m looking to collaborate on anything related to machine learning and artificial intelligence, python ml frameworks ( TF and PyTorch ).
 
